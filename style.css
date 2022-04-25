@@ -5,7 +5,7 @@
 }
 body{
   max-width: 1700px;
-  background-image: url("../logos/FundoCeu.png");
+  background-image: url("../FundoCeu.png");
   color: white;
 }
 .menu {
@@ -15,7 +15,7 @@ body{
   padding: 30px;
   color: white;
   text-align: center;
-  background-image: url(../logos/FundoP.png);
+  background-image: url(../FundoP.png);
   font-size: 50px;
 
 }
@@ -251,5 +251,5 @@ body{
 }
 header{
 
-  background-image: url("../logos/imgFinal.png");
+  background-image: url("../imgFinal.png");
 }
