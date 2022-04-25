@@ -1,0 +1,255 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  max-width: 1700px;
+  background-image: url("../logos/FundoCeu.png");
+  color: white;
+}
+.menu {
+  background-color: black;
+}
+.menu h1{
+  padding: 30px;
+  color: white;
+  text-align: center;
+  background-image: url(../logos/FundoP.png);
+  font-size: 50px;
+
+}
+.imagemPrincipal{
+  padding-top: 200px;
+  width: 100%;
+  text-align: center;
+  
+}
+
+
+.SobreCancer{
+  padding: 100px;
+  font-family: serif;
+  text-align: center;
+}
+.SobreCancer h1{
+  padding: 10px;
+  font-size: 33px;
+  
+}
+.SobreCancer img{
+  padding: 12px;
+  width: 80%;
+}
+.SobreCancer p{
+  font-size: 21px;
+}
+.SobreCancer h3{
+  padding-top: 25px;
+}
+.video{
+  text-align: center;
+}
+.FakeNews{
+  padding-top: 70px;
+  text-align: center;
+}
+.FakeNews h1{
+  padding: 20px;
+  color: red;
+}
+.FakeNews img{
+  padding: 10px;
+  width: 60%;
+}
+.FakeNews p{
+  padding: 10;
+  font-size: 25px;
+}
+.ListaFakeNews{
+  font-size: 15px;
+  padding: 50px;
+  text-align: center;
+  
+}
+.FakeFruta{
+  padding: 25px;
+  text-align: center;
+  
+
+}
+.FakeFruta h3{
+  padding: 20px;
+  font-size: 20px;
+  text-align: left;
+    font-size: 22px;
+  color: red;
+}
+.FakeFruta p{
+  padding: 5px;
+  font-size: 25px;
+}
+.FakeGelo{
+  padding-top: 50px;
+  text-align: center;
+}
+.FakeGelo h3{
+  padding-top: 25px;
+  color: red;
+    font-size: 22px;
+  text-align: left;
+  
+}
+.FakeGelo p{
+  padding: 20px;
+  font-size: 28px;
+}
+.FakeGelo img{
+  padding: 23px;
+  width: 55%;
+}
+.FakeVitamina{
+  padding-top: 50px;
+  text-align: center;
+}
+.FakeVitamina h3{
+  padding: 25px;
+  color: red;
+    font-size: 22px;
+  text-align: left;
+}
+.FakeVitamina img{
+  width: 60%;
+}
+.FakeVitamina p{
+  text-align: center;
+  width: 100%;
+  font-size: 25px;
+}
+.FakeAguaGelada{
+  padding-top: 50px;
+  text-align:center;
+}
+.FakeAguaGelada h3{
+  padding: 20px;
+  text-align: left;
+    font-size: 22px;
+  color: red;
+  
+}
+.FakeAguaGelada img{
+  width: 50%;
+}
+.FakeAguaGelada p{
+  padding: 23px;
+  font-size: 25px;
+}
+.FakeAguaDeCoco{
+  padding-top: 30px;
+  text-align: center;
+}
+.FakeAguaDeCoco h3{
+  padding: 10px;
+  text-align: left;
+    font-size: 22px;
+  color: red;
+}
+.FakeAguaDeCoco img{
+  padding: 20px;
+  width: 65%;
+}
+.FakeAguaDeCoco p{
+  padding: 7px;
+  font-size: 25px;
+  text-align: center;
+}
+.FakeCelular{
+  padding: 50px;
+  text-align: center;
+}
+.FakeCelular h3{
+  padding-top: 5px;
+  text-align: left;
+  font-size: 22px;
+  color: red;
+}
+.FakeCelular img{
+  padding-top: 23px;
+  width: 65%;
+}
+.FakeCelular p{
+  padding: 15px;
+  font-size: 27px;
+}
+.Desenvolvedor{
+  
+  padding: 120px;
+  
+}
+.Desenvolvedor h5{
+  font-size: 33px;
+}
+.Desenvolvedor li{
+  
+  border-radius: 0%;
+  font-size: 20px;
+  background-color: white;
+  text-decoration: none;
+  
+  
+  
+}
+.Desenvolvedor a{
+  font-size: 25px;
+  color:black;
+  text-decoration: none;
+}
+.alunos{
+  padding: 100px;
+  
+}
+.alunos h6{
+  font-size: 25px;
+}
+.alunos li{
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+
+}
+.alunos a{
+  font-size: 17px;
+  color: white;
+}
+
+.gravacao{
+  padding: 120px;
+  
+  
+}
+.gravacao h6{
+  font-size: 33px;
+  
+}
+.gravacao li{
+  border-radius: 10%;
+  background-color: white;
+  font-size: 20px;
+  text-decoration: none;
+  
+  
+  
+}
+.gravacao a{
+  
+  color: black;
+  font-size: 23px;
+  text-decoration: none;
+  
+  
+  
+}
+header{
+
+  background-image: url("../logos/imgFinal.png");
+}
