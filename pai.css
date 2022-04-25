@@ -9,7 +9,7 @@ body{
   color: black;
 }
 .menu {
-  background-color: white;
+  background-image: url("Fundo1.png");
 }
 .menu h1{
   padding: 30px;
