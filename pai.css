@@ -85,6 +85,10 @@ body{
   padding: 5px;
   font-size: 25px;
 }
+.FakeFruta img{
+  padding: 10px;
+  width:450px;
+}
 .FakeGelo{
   padding-top: 50px;
   text-align: center;
@@ -115,6 +119,7 @@ body{
   text-align: left;
 }
 .FakeVitamina img{
+  padding: 10px;
   width: 450px;
 }
 .FakeVitamina p{
@@ -134,7 +139,8 @@ body{
   
 }
 .FakeAguaGelada img{
-  width: 450px;
+  padding: 10px;
+  width: 400px;
 }
 .FakeAguaGelada p{
   padding: 23px;
@@ -170,7 +176,7 @@ body{
   color: red;
 }
 .FakeCelular img{
-  padding-top: 23px;
+  padding: 23px;
   width: 450px;
 }
 .FakeCelular p{
