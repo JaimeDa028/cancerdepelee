@@ -56,7 +56,7 @@ body{
 }
 .FakeNews img{
   padding: 10px;
-  width: 550x;
+  width: 450x;
 }
 .FakeNews p{
   padding: 10;
@@ -87,7 +87,7 @@ body{
 }
 .FakeFruta img{
   padding: 10px;
-  width:400px;
+  width:500px;
 }
 .FakeGelo{
   padding-top: 50px;
@@ -106,7 +106,7 @@ body{
 }
 .FakeGelo img{
   padding: 23px;
-  width: 450px;
+  width: 500px;
 }
 .FakeVitamina{
   padding-top: 50px;
@@ -120,7 +120,7 @@ body{
 }
 .FakeVitamina img{
   padding: 10px;
-  width: 450px;
+  width: 500px;
 }
 .FakeVitamina p{
   text-align: center;
@@ -140,7 +140,7 @@ body{
 }
 .FakeAguaGelada img{
   padding: 10px;
-  width: 400px;
+  width: 500px;
 }
 .FakeAguaGelada p{
   padding: 23px;
