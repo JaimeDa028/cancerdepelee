@@ -37,10 +37,6 @@ body{
   font-size: 33px;
   
 }
-.SobreCancer img{
-  padding: 12px;
-  width: 80%;
-}
 .SobreCancer p{
   font-size: 21px;
 }
@@ -60,7 +56,7 @@ body{
 }
 .FakeNews img{
   padding: 10px;
-  width: 50%;
+  width: 450px;
 }
 .FakeNews p{
   padding: 10;
@@ -119,7 +115,7 @@ body{
   text-align: left;
 }
 .FakeVitamina img{
-  width: 50%;
+  width: 450px;
 }
 .FakeVitamina p{
   text-align: center;
@@ -138,7 +134,7 @@ body{
   
 }
 .FakeAguaGelada img{
-  width: 40%;
+  width: 450px;
 }
 .FakeAguaGelada p{
   padding: 23px;
@@ -156,7 +152,7 @@ body{
 }
 .FakeAguaDeCoco img{
   padding: 20px;
-  width: 50%;
+  width: 450px;
 }
 .FakeAguaDeCoco p{
   padding: 7px;
